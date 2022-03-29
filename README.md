@@ -1,11 +1,11 @@
 # qb-addnewitems
 Create Dynamic items on runtime and saves it in json so can be fetched back on restarts
 
+This is WIP and just so that developers have idea on how to create items on runtime.
+
 This is just a basic script with which you can create items on runtime in server and they are saved in json file. This is not a drag and drop resource. This is just to give you an idea of the new adding items on runtime work.
 
 For the script to work, you must be on latest qb-core or have this commit https://github.com/qbcore-framework/qb-core/commit/ae29c94a40b6260b6135603f567a52a4983fb834
-
-
 
 Add this block of code on top in inventory/server/main.lua
 
